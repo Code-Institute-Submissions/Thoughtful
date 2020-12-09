@@ -44,9 +44,9 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 ### **User Goals**
 
-* In the modern world we are more likely to be close to a computer, tablet or mobile than pen or paper so this has to be accesible on all devices so users can quickley write their thoughts. 
-* To provide a simple but beautiful site where the user can dive straight in to noting thoughts without prior navigation.  
-* Users must be able to trash their thoughts for both the effect of psychology release and privacy.  
+* In the modern world I am more likely to be close to a computer, tablet or mobile than pen or paper so this has to be accesible on all devices so I can quickley write my thoughts. 
+* To provide a simple but beautiful site where I can dive straight in to noting thoughts without prior navigation.  
+* Users must be able to trash thoughts for both the effect of psychology release and privacy.  
 * To be able to add multiple thoughts in a list with the option of deleting.  
 * To offer different color schemes depending on mood of user with a simple click. 
 * A contact email to contact the site creator. 
@@ -63,13 +63,13 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 ### **Site Owner Goals**
 
-* As a site owner in this busy modern world I want the site to be straight to the point with information easy to find.
-* As a site owner I want clearly labelled navigation links and as little clicking and scrolling as possible for the user to stand out from the competition 
-and give the impression that African Explorers are an efficient and professional company. 
-* As a site owner I want to provide a pleasing to the eye site so the user leaves with a good feeling. 
-* As a site owner I want to provide images of the tours/animals to fire the users imagination and give them a taste of the wilderness. 
-* As a site owner I want to have a scrolling testimonials section of our tours and a recent sightings section to add to user excitement of what could be expected on a tour.  
-* As a site owner I want the user to be able to contact us via their preferred communication channel. 
+* As a site owner I want the user to be able to note thoughts as soon as the site is loaded.
+* As a site owner I want the site to be clear, simple and beautiful to the eye. 
+* As a site owner I want to provide the option for the user to change the colour scheme depending on the users mood. 
+* As a site owner I want to provide an option to add multiple thoughts. 
+* As a site owner I want to provide the option to trash thoughts. 
+* As a site owner I want the user to be able to contact me via email. 
+* As a site owner I want to provide links to professional mental health workers for those in need of something more serious. 
 
 ### **User Requirements and Expectations**
 
