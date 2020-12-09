@@ -24,12 +24,8 @@
     * [Manual testing](#manual-testing)
     * [Responsiveness](#responsiveness)
     * [Speed](#speed)
-    * [Contact form](#contact-form) 
 * [Bugs](#bugs)
 * [Finished site](#finished-site)
-    * [Additional fonts](#additonal-fonts-used-in-finished-site)
-    * [Aditional colour](#additonal-colour-used-in-finished-site)
-    * [Design changes](#design-changes) 
 * [Deployment](#deployment)
 * [Credit](#credits) 
 
