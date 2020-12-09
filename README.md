@@ -46,7 +46,7 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 * In the modern world we are more likely to be close to a computer, tablet or mobile than pen or paper so this has to be accesible on all devices so users can quickley write their thoughts. 
 * To provide a simple but beautiful site where the user can dive straight in to noting thoughts without prior navigation.  
-* Users must be able to trash their thoughts for the psychology release and privacy.  
+* Users must be able to trash their thoughts for both the effect of psychology release and privacy.  
 * To be able to add multiple thoughts in a list with the option of deleting.  
 * To offer different color schemes depending on mood of user with a simple click. 
 * A contact email to contact the site creator. 
@@ -56,11 +56,10 @@ being able to note a thought or feeling and then to discard it to offer some rel
 ### **User Stories**
 
 * As a user I want to be able to access the site either at home on a desktop or on the go with mobile/tablet. 
-* As a user I want to be able to leave the site with a solid understanding of African Explorers and what they provide. 
-* As a user I want to be able to find information quickly, clearly and with easy to follow navigation. 
-* As a user I want to be able to see images and testimonials of the tours. 
-* As a user I want to see contact information for the business with telephone, email and a dedicated contact form.
-* As a user I want to have links to the companies social media presence to see further images, videos and ratings. 
+* As a user I want to be able to write my thought or feeling with the option of deleting immediately or later.  
+* As a user I want to be able to be able to do this without prior navigation.  
+* As a user I want to be able to contact the site owner. 
+* As a user I want to have links to additional information on mental health and meditation. 
 
 ### **Site Owner Goals**
 
