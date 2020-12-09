@@ -93,7 +93,6 @@ being able to note a thought or feeling and then to discard it to offer some rel
 * Navigation links open in a separate tab. 
 * Email links works. 
  
-
 ---
 
 ## **Design Choices**
@@ -148,17 +147,12 @@ As I am building this site to be responsive it was very important for me to prod
 
 Features on the site:
 
-* Navigation bar
-* Jumbotron with background image on landing page
-* Call to action find out more button
-* Scrolling testimonials (carousel) on landing page
-* Footer with social media links and email link
-* Image gallery section 
-* About us page
-* Images on about us section
-* Call to action buttons to view images or contact on about us section
-* Recent sightings article 
-* Contact form 
+* Index/landing page 
+* Input box to write thoughts 
+* Add button to add thoughts 
+* Colour scheme buttons 
+* Delete button to trash thoughts 
+* Footer with email & links to additional help sites. 
 
 ### **Features that could be implemented in the future**
 
