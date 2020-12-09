@@ -44,15 +44,14 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 ### **User Goals**
 
-* To be able to access the site via various devices (responsive) and to be able too quickly and efficiently find out who African Explorers are and what they provide as a service. 
-* To be able to easily navigate between pages with clearly defined navigation links. 
-* To be able to read text on the website clearly and without difficulty. 
-* To have a clear call to action for further detailed information. 
-* To be able to contact the business via either various communication methods such as contact form, telephone, email address and social media. 
-* To be able to see testimonials from previous customers. 
-* To be able to see images (proof) of what can be seen on the tours. 
-* To have an update of recent wildlife sightings. 
-* To have social media links to see further images and ratings. 
+* In the modern world we are more likely to be close to a computer, tablet or mobile than pen or paper so this has to be accesible on all devices so users can quickley write their thoughts. 
+* To provide a simple but beautiful site where the user can dive straight in to noting thoughts without prior navigation.  
+* Users must be able to trash their thoughts for the psychology release and privacy.  
+* To be able to add multiple thoughts in a list with the option of deleting.  
+* To offer different color schemes depending on mood of user with a simple click. 
+* A contact email to contact the site creator. 
+* To provide links for additonal help. 
+
 
 ### **User Stories**
 
