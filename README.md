@@ -156,12 +156,6 @@ Features on the site:
 
 ### **Features that could be implemented in the future**
 
-Some of these features would require additional technologies not part of this module. 
-
-* Scrolling background images on landing page so the user does not only have one background image via a carousel
-* An lightbox image gallery instead of opening in a new tab
-* Google maps location
-
 ---
 
 ## **Technologies Used**
@@ -170,6 +164,7 @@ Some of these features would require additional technologies not part of this mo
 
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 ### **Tools and Libaries**
 
