@@ -1,6 +1,6 @@
 ![banner](assets/images/clouds.jpg)
 
-# **Thoughtful** 
+# **Thoughtful Men** 
 
 ## **Contents**
 
@@ -35,12 +35,12 @@
 
 ### **Project Goals**
 
-The goal of this project is to provide a clear & concise online presence to the fictional business 
-African Explorers. African Explorers are a tour operator who specialise in guided safari 
-tours in search of the famous big 5 (Lion, Elephant, Rhino, Leopard, Buffalo) in the authentic wilderness of the Okavango Delta in Southern Africa. 
+Mental health has become a mainstream topic in recent years and it's no wonder considering our busy, stressful, sedentary, and often disconnected lifes. 
+[Men in particular seem to suffer and ofter suffer in silence](https://www.healthline.com/health-news/how-can-we-reduce-mens-mental-health-stigma) as they can find it difficult to talk about their thoughts & feelings for fear of judgement. Thoughtful Men 
+is based on a combination of a mindfullness technique called [noting](https://www.headspace.com/blog/2017/07/18/noting-technique-take-advantage/) and a [psychology exercises of writing down your thoughts and then throwing away after](https://www.psychologytoday.com/us/blog/choke/201301/throw-those-nasty-thoughts-away). The goal of the site then
+is to be able to offer a safe and private place for men to write what thoughts come up and then discard them. It is not meant as a replacement for professional help but a way of 
+being able to note a thought or feeling and then to discard it to offer some release, or just to simply be mindful of your thoughts. 
 
-With the busy modern lives of customers and a high amount of business competition in this area the site needs
-to be simple to navigate with the information on the company & tours provided with as little mouse clicks and scrolling as possible.    
 
 ### **User Goals**
 
@@ -96,7 +96,7 @@ and give the impression that African Explorers are an efficient and professional
 
 ## **Design Choices**
 
-The average age of a buying customer for safari travel is [50 years old](https://www.travelandleisure.com/trip-ideas/safaris/evolution-of-safari-travel#:~:text=%22Additionally,%20the%20typical%20safari%20traveler,have%20been%20closer%20to%2070.) (actually a drop from 70 over the last 20 years) showing that it is a form of travel most popular with working middle aged professionals.
+The average age of a buying customer for safari travel is [50 years old](https://www.healthline.com/health-news/how-can-we-reduce-mens-mental-health-stigma) (actually a drop from 70 over the last 20 years) showing that it is a form of travel most popular with working middle aged professionals.
 
 This was very much on my mind when designing the site. People of this age are more likely to be busy with work, commutes, and family commitments meaning time is more precious.  Because of this I want the site to be of minimalist design, straight to the point and with key information easily findable with little searching. 
 I didn't feel the need for alternative street style fonts & colours which would appeal to a younger audience for example. 
