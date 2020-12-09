@@ -64,6 +64,7 @@ being able to note a thought or feeling and then to discard it to offer some rel
 ### **Site Owner Goals**
 
 * As a site owner I want the user to be able to note thoughts as soon as the site is loaded.
+* As a site owner I want the site to be accesible on mobile, tablet, laptop, and desktop. 
 * As a site owner I want the site to be clear, simple and beautiful to the eye. 
 * As a site owner I want to provide the option for the user to change the colour scheme depending on the users mood. 
 * As a site owner I want to provide an option to add multiple thoughts. 
@@ -75,20 +76,23 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 #### Requirements
 
-* Navigable website with a navigation bar/links. 
-* To be provided with information on African Explorers and services. 
-* Content is clean, clear, visually appealing and easy to find.
-* Contact details and dedicated contact form is provided with a submit button and placeholders.  
-* To be able to scroll through the testimonials section, created with a bootstrap carousel. 
+* User must be able to write thoughts immediately and it must be clear how to do this. 
+* User must able to trash thoughts and it must be clear how to do this.  
+* Site is clean, clear and visually appealing.
+* Able to change the colour of site to reflect mood with buttons.   
+* To have a footer with email address. 
+* To have links to additional help.
 
 #### Expectations
 
 * Content is visually clear, concise and appealing. 
 * Site can be viewed on any device. 
-* Navigation links work correctly and go to the correct parts of the site.
+* Thought input box and add button works correctly. 
+* Trash button works correctly. 
+* Navigation links work correctly.
 * Navigation links open in a separate tab. 
 * Email links works. 
-* Content form is clearly labelled (including placeholders), and submit button works. 
+ 
 
 ---
 
