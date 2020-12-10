@@ -97,21 +97,20 @@ being able to note a thought or feeling and then to discard it to offer some rel
 
 ## **Design Choices**
 
-The average age of a buying customer for safari travel is [50 years old](https://www.healthline.com/health-news/how-can-we-reduce-mens-mental-health-stigma) (actually a drop from 70 over the last 20 years) showing that it is a form of travel most popular with working middle aged professionals.
-
-This was very much on my mind when designing the site. People of this age are more likely to be busy with work, commutes, and family commitments meaning time is more precious.  Because of this I want the site to be of minimalist design, straight to the point and with key information easily findable with little searching. 
-I didn't feel the need for alternative street style fonts & colours which would appeal to a younger audience for example. 
-
-People of this age group are also likely to be on the move a lot due work & family travel commitments so I have a decided to go with a mobile first design with Bootstrap. 
+As the idea of the site is to provide a simple page where the user can dive straight in and enter thoughts. 
+The designs reflect this with a brief introduction to the purpose and then an input field where the the user can add thoughts. I center aligned everything
+as I feel it would look odd with the minimal amout of content to be left or right aligned and its more grabbing. In the input field there will be a plus symbol which I feel is a good representation
+to add the thought. Once the user has entered the thought it will appear below the input field with a trash symbol to give the option to discard. 
+There will be also be four buttons to allow the user to be able to change the backround color of the site to reflect the mood of the user. 
 
 ### **Fonts**
 
-Considering the likely age user group of the website I decided to us Roboto regular 400 as my font as it is "safe", very easy to read, and neutral. I did not think it would be right to go too creative in this case. An interesting article on [safe web fonts](https://websitesetup.org/web-safe-fonts-html-css/)
+I have decided to go with Roboto regular 400 as my font as it is a clear, concise and common font on the web. It made no sense to use something alternative as it would not fit in with the designs. 
 
 
 ### **Icons**
 
-Icons will be used alongside the text of navigation links to provide further usability. They will be taken from [font awesome](https://fontawesome.com/) and chosen to be self explanatory. 
+Icons will be used on the site to provide further usability. There will be an email icon to direct the user to email in the footer and a plus/trash sign for adding and deleting thoughts. They will be taken from [font awesome](https://fontawesome.com/) and chosen to be self explanatory. 
 
 
 ### **Colours**
@@ -128,17 +127,12 @@ The colour scheme was chose on the basis that I wanted a simple, clean and visua
 ---
 ## **Wireframes**
 
-![Wireframes](/wireframes/index.png)
-
-To create my wireframes I uses a software called Balsamiq to create low fidelity frames of the site. 
-I chose Balsamiq as it is user friendly and allows you to add graphical images which I find very helpful for visualising the site. For example the graphics
-with the navigation links and the scrolling testimonials really allowed me to get an idea of how the site could look. 
-
-I did find a slight issue with Balsamiq and that was when the desktop wireframes were exported the line under the navigation links was extended to look messy. It should be noted this is not an intentional design. 
-
-As I am building this site to be responsive it was very important for me to produce wireframes of desktop, mobile, and tablet. Click on the link below to see in more detail. 
+To create my wireframes I uses a word processor called pages to create low fidelity frames of the site. 
+I chose pages as it is free software with apple mac's and comes with a number of drawing tools and graphical images to help with sketching and visualising the site. 
 
 * [Wireframes](https://github.com/TobyGreet/African-Explorers/tree/master/wireframes)
+
+![Wireframes](/wireframes/index.png)
 
 
 ---
