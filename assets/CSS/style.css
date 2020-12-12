@@ -17,3 +17,7 @@ body {
 #text {
     font-family: "Roboto", sans-serif;
 }
+
+button {
+    margin: 5px;
+}
