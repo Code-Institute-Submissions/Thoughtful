@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(120deg, #92d0d6, #F0F8FF);
+    min-height: 100vh;
+}
+
+#title {
+    font-family: "Patrick Hand", "Roboto", cursive, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#text {
+    font-family: "Roboto", sans-serif;
+}
