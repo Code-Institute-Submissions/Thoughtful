@@ -8,12 +8,13 @@ body {
     background-image: url(../images/man.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
+    height: 100vh;
+    background-position: bottom;
 }
 
 #title {
     font-family: "Patrick Hand", "Roboto", cursive, sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
     color: white;
 }
@@ -21,10 +22,11 @@ body {
 #text {
     font-family: "Patrick Hand", "Roboto", cursive, sans-serif;
     color: white;
+    font-size: 20px;
 }
 
 /* --------------------------------------------------------------- Buttons ------------------------------------------------------*/
-
+/*
 .color-btn {
     margin: 5px;
     height: 2vh;
@@ -50,7 +52,7 @@ body {
     background-color: #92d0d6;
     border: none;
 }
-
+*/
 .input-btn {
     background-color: transparent;
     border: none;
@@ -58,18 +60,22 @@ body {
     color: white;
 }
 
-.input-btn:focus:after {
-    border-color: transparent;
-    box-shadow: none;
-    outline: none;
+.input-btn:hover {
+    color: grey;
 }
+
+.input-btn:focus { outline:0 !important; }
+
+
 /* --------------------------------------------------------------- Forms ------------------------------------------------------*/
 
 form {
     padding: 0.5rem;
-    font-size: 2.5rem;
+    font-size: 2rem;
     border: none;
+    border-radius: 25px;
 }
+
 
 /* --------------------------------------------------------------- Forms ------------------------------------------------------*/
 
@@ -84,9 +90,21 @@ footer {
     font-size: 25px;
     margin: 5px;
     color: white;
+    padding-top: 50px;
+}
+
+.media:hover {
+    color: grey;
+}
+
+/*
+.links-title {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .links {
     color: white;
 }
-
+*/
