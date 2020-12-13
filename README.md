@@ -196,6 +196,7 @@ Features on the site:
 
 * Images
     * Cloud banner image for Readme provided by [Jason Blackeye at Unsplash](https://unsplash.com/@jeisblack)
+    * Mountain image provided by [Rohit Tandon at Unsplash](https://unsplash.com/s/photos/mountains?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
     
 
 
