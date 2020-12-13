@@ -108,3 +108,11 @@ footer {
     color: white;
 }
 */
+
+/*----------------------Media queries------------------------------*/
+
+@media (max-width: 768px) { 
+    #text {
+        font-size: 15px;
+    }
+}
