@@ -1,3 +1,4 @@
 function treeFunction() {
-   document.document.getElementsByTagName("body").style.backgroundImage = "url(../images/forest.jpg)";
+   document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/forest.jpg)";
 }
+
