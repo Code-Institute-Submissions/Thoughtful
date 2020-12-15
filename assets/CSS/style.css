@@ -25,7 +25,6 @@ body {
     font-size: 20px;
 }
 
-<<<<<<< HEAD
 /* --------------------------------------------------------------- Buttons ------------------------------------------------------*/
 /*
 .color-btn {
@@ -67,7 +66,61 @@ body {
 
 .input-btn:focus { outline:0 !important; }
 
+.tree-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 13px;
+}
 
+.tree-btn:hover {
+    color: grey;
+}
+
+.tree-btn:focus { outline:0 !important; }
+
+.sun-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 13px;
+}
+
+.sun-btn:hover {
+    color: grey;
+}
+
+.sun-btn:focus { outline:0 !important; }
+
+.beach-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 13px;
+}
+
+.beach-btn:hover {
+    color: grey;
+}
+
+.beach-btn:focus { outline:0 !important; }
+
+.city-btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 13px;
+}
+
+.city-btn:hover {
+    color: grey;
+}
+
+.city-btn:focus { outline:0 !important; }
 /* --------------------------------------------------------------- Forms ------------------------------------------------------*/
 
 form {

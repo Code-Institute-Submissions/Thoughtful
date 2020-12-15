@@ -199,5 +199,6 @@ Features on the site:
     * Mountain image provided by [Rohit Tandon at Unsplash](https://unsplash.com/s/photos/mountains?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
     * Man image provided by [Greg Rakozy at Unsplash](https://unsplash.com/@grakozy)
     * Forest image provided by [Sleep Music at Unsplash](https://unsplash.com/@sleepmusic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
+    * Beach image provided by [Quino AL at Unsplash](https://unsplash.com/@quinoal)
+    * City images provided by [Henning Witzel at Unsplash](Beach image provided by [Quino AL at Unsplash](https://unsplash.com/@quinoal)
 
