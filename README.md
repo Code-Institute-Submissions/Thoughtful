@@ -200,5 +200,6 @@ Features on the site:
     * Man image provided by [Greg Rakozy at Unsplash](https://unsplash.com/@grakozy)
     * Forest image provided by [Sleep Music at Unsplash](https://unsplash.com/@sleepmusic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
     * Beach image provided by [Quino AL at Unsplash](https://unsplash.com/@quinoal)
-    * City images provided by [Henning Witzel at Unsplash](Beach image provided by [Quino AL at Unsplash](https://unsplash.com/@quinoal)
+    * City image provided by [Henning Witzel at Unsplash](Beach image provided by https://unsplash.com/@henning)
+    * Forest2 image provided by [Veeterzy at Unsplash](https://unsplash.com/@veeterzy)
 
