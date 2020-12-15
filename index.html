@@ -37,8 +37,6 @@
                 <p id="text">Welcome to Thoughtful Men! As men we sometimes find it difficult to express our feelings and thoughts due to fear of judgment.<br> Thoughtful Men allows you a way to privately express your thoughts and then delete them from your mind,<br> or simply a way to just take note of you feelings and be present and mindful.
                     Give it a try and be suprised at the letting go!
                 </p>
-
-                <!--<button type="button" class="color-btn" id="btn-1"></button><button type="button" class="color-btn" id="btn-2"></button><button type="button" class="color-btn" id="btn-3"></button><button type="button" class="color-btn" id="btn-4"></button>-->
             </div>
         </div>
     </div>  
@@ -48,12 +46,24 @@
     <div class="container">
         <div class="row text-center">
             <div class="col-sm-12 my-2">
-                <form class="input-form">
-                    <input type="text">
-                        <button type="submit" class="input-btn"><i class="far fa-plus-square input-icon"></i></button>
-                </form>
+                <input id="thought-input" type="text" class="write-thought"placeholder="Enter thought here"/>
+                <button onclick="addNewThought()" class="input-btn">
+                    <i class="far fa-plus-square input-icon"></i>
+                </button>
             </div>
-        </div> 
+        </div>
+    </div> 
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 justify-content-center">
+                <ul id="thought">
+                </ul>
+            </div>
+        </div>
+    </div>
 </section>
 
 <footer >

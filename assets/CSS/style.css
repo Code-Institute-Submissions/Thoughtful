@@ -28,38 +28,13 @@ body {
 }
 
 /* --------------------------------------------------------------- Buttons ------------------------------------------------------*/
-/*
-.color-btn {
-    margin: 5px;
-    height: 2vh;
-    width: 4vh;
-}
 
-#btn-1 {
-    background-color: #91dba9;
-    border: none;
-}
-
-#btn-2 {
-    background-color: #ffee90;
-    border: none;
-}
-
-#btn-3 {
-    background-color: #ff8d43;
-    border: none;
-}
-
-#btn-4 {
-    background-color: #92d0d6;
-    border: none;
-}
-*/
 .input-btn {
     background-color: transparent;
     border: none;
     outline: none;
     color: white;
+    font-size: 1.5rem;
 }
 
 .input-btn:hover {
@@ -125,29 +100,14 @@ body {
 .city-btn:focus { outline:0 !important; }
 /* --------------------------------------------------------------- Forms ------------------------------------------------------*/
 
-form {
+.write-thought {
     padding: 0.5rem;
-    font-size: 2rem;
-    border: none;
-    border-radius: 25px;
-}
-
-
-/* --------------------------------------------------------------- Forms ------------------------------------------------------*/
-
-
-.color-btn {
-    margin: 5px;
-    height: 3vh;
-    width: 6vh;
-}
-
-form {
-    padding: 0.5rem;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     border: none;
 }
 
+
+/*-------------------------Footer--------------------------*/
 
 footer {
     position: fixed;
@@ -168,18 +128,23 @@ footer {
     color: grey;
 }
 
-/*
-.links-title {
-    color: white;
+
+/*-----------------------------------Notes---------------------------------*/
+
+#thought {
+   
+    
+}
+
+#thought li {
+        
+    padding: 15px;
+    margin: 15px;
     font-size: 18px;
-    font-weight: bold;
+    background: white;
+    color: grey;
+    list-style: none;
 }
-
-.links {
-    color: white;
-}
-*/
-
 /*----------------------Media queries------------------------------*/
 
 @media (max-width: 768px) { 
@@ -188,12 +153,12 @@ footer {
     }
 }
 
-@media (max-width: 768px) { 
+/*@media (max-width: 768px) { 
     body {
         background-image: url(../images/forest.jpg);
         height: 100vh;
     }
-}
+}*/
 
 @media (max-width: 575px) { 
     form {
