@@ -157,16 +157,3 @@ footer {
     color: grey;
     list-style: none;
 }
-/*-Media queries-*/
-
-@media (max-width: 768px) { 
-    #text {
-        font-size: 15px;
-    }
-}
-
-@media (max-width: 575px) { 
-    form {
-        font-size: 1.5rem;
-    }
-}
