@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 html {
     font-size: 62.5%;
@@ -32,12 +33,11 @@ ul {
 }
 
 .text {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto', sans-serif;
     color: #FFFFFF;
     font-size: 2rem;
     text-shadow: 1px 1px #000000;
     margin-top: 0;
-    margin-bottom: 20px;
 }
 
 /* Buttons-*/
@@ -48,6 +48,7 @@ ul {
     outline: none;
     color: #FFFFFF;
     font-size: 2.5rem;
+    margin-left: 5px;
 }
 
 .input-btn:hover {
@@ -56,14 +57,15 @@ ul {
 
 .input-btn:focus { outline:0 !important; }
 
-.delete-button {
+.trash-btn {
     float: right;
-    background: red;
-    color: white;
-    width: 40px;
-    height: 40px;
-    border: 0;
-    font-size: 18px;
+    color: black;
+    font-size: 2.5rem;
+}
+
+.trash-btn:hover {
+    color: #A9A9A9;
+    cursor: pointer;
 }
 
 .image-btns {
@@ -81,8 +83,9 @@ ul {
 }
 
 .media {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #FFFFFF;
+    margin-bottom: 5px;
 }
 
 .media:hover {
