@@ -7,7 +7,7 @@ function changeBackground(fileName) {
 function addNewThought() {
    let inputText = document.getElementById("thought-input").value;
 
-   let newTextField = "<li> <span>"+ inputText + "</span> <button class='delete-button' onClick='deleteItem(" + thought.length  + ")'>X</button> </li>";
+   let newTextField = "<li> <span>"+ inputText + "</span> <i onClick='deleteItem(" + thought.length  + ")' class='fas fa-trash-alt trash-btn'></i> </li>";
    thought.push(newTextField);
 
    renderElements();
