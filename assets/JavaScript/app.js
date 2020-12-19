@@ -7,12 +7,10 @@ function changeBackground(fileName) {
 function addNewThought() {
    let inputText = document.getElementById("thought-input").value;
 
-   let newElement = "<li> <span>"+ inputText + "</span> <button class='delete-button' onClick='deleteItem(" + thought.length  + ")'>X</button> </li>";
-   thought.push(newElement);
+   let newTextField = "<li> <span>"+ inputText + "</span> <button class='delete-button' onClick='deleteItem(" + thought.length  + ")'>X</button> </li>";
+   thought.push(newTextField);
 
-   
    renderElements();
-
 }
 
 function deleteItem(index) {
