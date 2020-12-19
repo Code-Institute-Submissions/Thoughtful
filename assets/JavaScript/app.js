@@ -13,7 +13,7 @@ function addNewThought() {
    renderElements();
 }
 
-function deleteItem(index) {
+function deleteText(index) {
     thought.splice(index, 1);
     renderElements();
 
