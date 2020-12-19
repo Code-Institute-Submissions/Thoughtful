@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+html {
+    font-size: 62.5%;
+}
+
 *{
     margin: 0;
     padding: 0;
 }
-/* --------------------------------------------------------------- Main ------------------------------------------------------*/
+/*-Main-*/
 
 body {
     background-image: url(../images/man.jpg); 
@@ -13,28 +19,28 @@ body {
 }
 
 #title {
-    font-family: "Patrick Hand", "Roboto", cursive, sans-serif;
-    font-size: 30px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 3rem;
     font-weight: bold;
     color: white;
     text-shadow: 2px 2px black;
 }
 
 #text {
-    font-family: "Patrick Hand", "Roboto", cursive, sans-serif;
+    font-family: 'Patrick Hand', cursive;
     color: white;
-    font-size: 20px;
+    font-size: 2rem;
     text-shadow: 2px 2px black;
 }
 
-/* --------------------------------------------------------------- Buttons ------------------------------------------------------*/
+/* Buttons-*/
 
 .input-btn {
     background-color: transparent;
     border: none;
     outline: none;
     color: white;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 .delete-button {
@@ -108,16 +114,17 @@ body {
 }
 
 .city-btn:focus { outline:0 !important; }
-/* --------------------------------------------------------------- Forms ------------------------------------------------------*/
+
+/*-Forms-*/
 
 .write-thought {
     padding: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     border: none;
 }
 
 
-/*-------------------------Footer--------------------------*/
+/*-Footer-*/
 
 footer {
     position: fixed;
@@ -139,12 +146,8 @@ footer {
 }
 
 
-/*-----------------------------------thoughts---------------------------------*/
+/*-thoughts-*/
 
-#thought {
-   
-    
-}
 
 #thought li {
     padding: 15px;
@@ -154,20 +157,13 @@ footer {
     color: grey;
     list-style: none;
 }
-/*----------------------Media queries------------------------------*/
+/*-Media queries-*/
 
 @media (max-width: 768px) { 
     #text {
         font-size: 15px;
     }
 }
-
-/*@media (max-width: 768px) { 
-    body {
-        background-image: url(../images/forest.jpg);
-        height: 100vh;
-    }
-}*/
 
 @media (max-width: 575px) { 
     form {
