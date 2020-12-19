@@ -22,15 +22,15 @@ body {
     font-family: 'Patrick Hand', cursive;
     font-size: 3rem;
     font-weight: bold;
-    color: white;
-    text-shadow: 2px 2px black;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #000000;
 }
 
 #text {
     font-family: 'Patrick Hand', cursive;
-    color: white;
+    color: #FFFFFF;
     font-size: 2rem;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px #000000;
 }
 
 /* Buttons-*/
@@ -39,7 +39,7 @@ body {
     background-color: transparent;
     border: none;
     outline: none;
-    color: white;
+    color: #FFFFFF;
     font-size: 2.5rem;
 }
 
@@ -54,7 +54,7 @@ body {
 }
 
 .input-btn:hover {
-    color: grey;
+    color: #A9A9A9;
 }
 
 .input-btn:focus { outline:0 !important; }
@@ -63,12 +63,13 @@ body {
     background-color: transparent;
     border: none;
     outline: none;
-    color: white;
+    color: #FFFFFF;
     font-size: 13px;
 }
 
 .image-btns:hover {
-    color: grey;
+    color: #A9A9A9;
+    cursor: pointer;
 }
 
 
@@ -79,7 +80,6 @@ body {
     font-size: 2.5rem;
     border: none;
 }
-
 
 /*-Footer-*/
 
@@ -94,12 +94,12 @@ footer {
 .media {
     font-size: 25px;
     margin: 5px;
-    color: white;
+    color: #FFFFFF;
     padding-top: 50px;
 }
 
 .media:hover {
-    color: grey;
+    color: #A9A9A9;
 }
 
 
@@ -110,7 +110,7 @@ footer {
     padding: 15px;
     margin: 15px;
     font-size: 18px;
-    background: white;
-    color: grey;
+    background: #FFFFFF;
+    color: #000000;
     list-style: none;
 }
