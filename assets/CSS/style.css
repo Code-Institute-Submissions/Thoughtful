@@ -19,6 +19,10 @@ body {
     background-attachment: fixed;
 }
 
+ul {
+    margin: 0;
+}
+
 #title {
     font-family: 'Patrick Hand', cursive;
     font-size: 3rem;
@@ -27,11 +31,13 @@ body {
     text-shadow: 1px 1px #000000;
 }
 
-#text {
+.text {
     font-family: 'Patrick Hand', cursive;
     color: #FFFFFF;
     font-size: 2rem;
     text-shadow: 1px 1px #000000;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 /* Buttons-*/
@@ -44,6 +50,12 @@ body {
     font-size: 2.5rem;
 }
 
+.input-btn:hover {
+    color: #A9A9A9;
+}
+
+.input-btn:focus { outline:0 !important; }
+
 .delete-button {
     float: right;
     background: red;
@@ -54,18 +66,13 @@ body {
     font-size: 18px;
 }
 
-.input-btn:hover {
-    color: #A9A9A9;
-}
-
-.input-btn:focus { outline:0 !important; }
-
 .image-btns {
     background-color: transparent;
     border: none;
     outline: none;
     color: #FFFFFF;
-    font-size: 13px;
+    font-size: 2rem;
+    margin: 5px;
 }
 
 .image-btns:hover {
@@ -73,6 +80,14 @@ body {
     cursor: pointer;
 }
 
+.media {
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+
+.media:hover {
+    color: #A9A9A9;
+}
 
 /*-Forms-*/
 
@@ -81,31 +96,7 @@ body {
     font-size: 2.5rem;
     border: none;
 }
-
-/*-Footer-*/
-
-footer {
-    position: fixed;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
-
-}
-
-.media {
-    font-size: 25px;
-    margin: 5px;
-    color: #FFFFFF;
-    padding-top: 50px;
-}
-
-.media:hover {
-    color: #A9A9A9;
-}
-
-
 /*-thoughts-*/
-
 
 #thought li {
     padding: 15px;
