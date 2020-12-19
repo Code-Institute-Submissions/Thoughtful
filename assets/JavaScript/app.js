@@ -1,23 +1,35 @@
+let thought = [];
 
-
-function treeFunction() {
-   document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/tree.jpg)";
-}
-
-function cityFunction() {
-   document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/city.jpg)";
-}
-
-function sunFunction() {
-   document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/man.jpg)";
+function changeBackground(fileName) {
+   document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/"+ fileName + ".jpg)";
 }
 
 function addNewThought() {
    let inputText = document.getElementById("thought-input").value;
 
-   let node = document.createElement("LI"); //<li></li> Create a <li> node
-   let textnode = document.createTextNode(inputText); // Create a text node
-   node.appendChild(textnode); // adding text from input to node <li> my text </li>
-   document.getElementById("thought").appendChild(node); 
+   let newElement = "<li> <span>"+ inputText + "</span> <button class='delete-button' onClick='deleteItem(" + thought.length  + ")'>X</button> </li>";
+   thought.push(newElement);
+
+   
+   renderElements();
 
 }
+
+function deleteItem(index) {
+    thought.splice(index, 1);
+    renderElements();
+
+}
+
+function cleanElements() {
+    thought = [];
+    document.getElementById("thought").innerHTML  = ""; 
+}
+
+function renderElements() {
+    document.getElementById("thought").innerHTML  = ""; //clean before create all elements again in order to not get duplicate items
+    thought.forEach(item => {
+        document.getElementById("thought").innerHTML =  document.getElementById("thought").innerHTML + item
+    });
+}
+
