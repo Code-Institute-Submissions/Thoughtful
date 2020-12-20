@@ -82,7 +82,7 @@ ul {
     cursor: pointer;
 }
 
-.media {
+/*.media {
     font-size: 2rem;
     color: #FFFFFF;
     margin-bottom: 5px;
@@ -90,7 +90,7 @@ ul {
 
 .media:hover {
     color: #A9A9A9;
-}
+}*/
 
 /*-Forms-*/
 
@@ -109,6 +109,8 @@ ul {
     color: #000000;
     list-style: none;
 }
+
+/*Media Querys*/
 
 @media (min-width: 280px) { 
     .text {
