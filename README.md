@@ -214,20 +214,20 @@ To deploy Thoughtful Men on GitHub Pages I had to make the follow the steps belo
 * Scrolled down to the GitHub Pages area
 * Selected 'Master Branch' from the 'Source' dropdown menu
 * Clicked save to confirm my selection.
-* African Explorers is now live on GitHub Pages: https://tobygreet.github.io/African-Explorers/
+* African Explorers is now live on GitHub Pages: 
 
 ### How to run/clone locally:
 
-Running African Explorers Locally
-Cloning African Explorers from GitHub:
+Running Thoughtful Men Locally
+Cloning Thoughtful Men from GitHub:
 
-* Navigate to https://github.com/TobyGreet/African-Explorers
+* Navigate to https://github.com/TobyGreet/Thoughtful
 * Click the green code button
 * Copy the url in the dropdown box that will appear
 * Using your favourite IDE open up your preferred terminal
 * Navigate to your desired file location
-* Copy the following code and input it into your terminal to clone African Explorers:
-https://github.com/TobyGreet/African-Explorers.git
+* Copy the following code and input it into your terminal to clone Thoughtful Men:
+
 
 
 ---
