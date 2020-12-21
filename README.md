@@ -15,7 +15,6 @@
         * [Colours](#colours)
     * [Wireframes](#wireframes)
     * [Features](#features)
-        * [Features that could be implemented in the future](#features)
     * [Technologies](#technologies-used)
 * [Testing](#testing)
     * [Chrome DevTools](#chrome-devtools)
@@ -149,8 +148,6 @@ Features on the site:
 * Colour scheme buttons 
 * Delete button to trash thoughts 
 * Footer with email & links to additional help sites. 
-
-### **Features that could be implemented in the future**
 
 ---
 
