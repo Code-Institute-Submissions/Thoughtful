@@ -1,4 +1,4 @@
-![banner](assets/images/clouds.jpg)
+![banner](assets/images/man.jpg)
 
 # **Thoughtful Men** 
 
@@ -165,8 +165,6 @@ Features on the site:
 ### **Tools and Libaries**
 
 * [Bootstrap](https://getbootstrap.com/)
-* [jQuery](https://jquery.com/)
-* [Popper.js](https://popper.js.org/)
 * [Git](https://git-scm.com/) 
 * [Github](https://github.com/) 
 * [Gitpod](https://www.gitpod.io/)
@@ -183,9 +181,53 @@ Features on the site:
 
 ## **Finished site**
 
+### **Background colours changed to images**
+
+During the making of the site I decided against using background colours and instead changed to background images. The reason for this 
+is because I feel the images give a better experience to the theme of the site. They are more suited and also frankley visually more appealing than a 
+plain background colour. I chose three images which I think suit the site nicley, as they thoughtful and even spiritual. 
+
+### **Removing of links to additional sites**
+
+I decided to remove any links to additional sites as I wanted to keep the site minimal, with the main focus being on the inputting of thoughts. I also thought
+it would of been a bit random to have these links in the site. 
+Removing these links also meant removing the footer. 
+
+### **Removing of email and social media links**
+
+As with the taking out of additional links I also decided to remove my links to email contact and linkedIn. Firstly I felt there was no real reason to have them
+but also they were adding clutter to the site and I preferred to keep it minimal.
+
 ---
 
 ## **Deployment** 
+
+Thoughtful Men was developed on GitPod, using git and GitHub to host the repository.
+
+To deploy Thoughtful Men on GitHub Pages I had to make the follow the steps below:
+
+* Opened up GitHub in my browser
+* Signed in using my username and password
+* Selected my African Explorers repositories
+* Navigated to https://github.com/TobyGreet/Thoughtful
+* Click on setting in the top right of the navigation bar
+* Scrolled down to the GitHub Pages area
+* Selected 'Master Branch' from the 'Source' dropdown menu
+* Clicked save to confirm my selection.
+* African Explorers is now live on GitHub Pages: https://tobygreet.github.io/African-Explorers/
+
+### How to run/clone locally:
+
+Running African Explorers Locally
+Cloning African Explorers from GitHub:
+
+* Navigate to https://github.com/TobyGreet/African-Explorers
+* Click the green code button
+* Copy the url in the dropdown box that will appear
+* Using your favourite IDE open up your preferred terminal
+* Navigate to your desired file location
+* Copy the following code and input it into your terminal to clone African Explorers:
+https://github.com/TobyGreet/African-Explorers.git
 
 
 ---
@@ -195,11 +237,10 @@ Features on the site:
 * [Coolors.co](https://coolors.co/)
 
 * Images
-    * Cloud banner image for Readme provided by [Jason Blackeye at Unsplash](https://unsplash.com/@jeisblack)
-    * Mountain image provided by [Rohit Tandon at Unsplash](https://unsplash.com/s/photos/mountains?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
-    * Man image provided by [Greg Rakozy at Unsplash](https://unsplash.com/@grakozy)
-    * Forest image provided by [Sleep Music at Unsplash](https://unsplash.com/@sleepmusic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-    * Beach image provided by [Quino AL at Unsplash](https://unsplash.com/@quinoal)
-    * City image provided by [Henning Witzel at Unsplash](Beach image provided by https://unsplash.com/@henning)
-    * Forest2 image provided by [Veeterzy at Unsplash](https://unsplash.com/@veeterzy)
+   
+    
+    * Man in sunrise image provided by [Greg Rakozy at Unsplash](https://unsplash.com/@grakozy)
+    * Tree in forest image provided by [Veeterzy at Unsplash](https://unsplash.com/@veeterzy)
+    * City at night image provided by [Henning Witzel at Unsplash](https://unsplash.com/@henning)
+    
 
