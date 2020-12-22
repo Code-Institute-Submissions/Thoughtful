@@ -190,6 +190,16 @@ Like W3C HTML validator they also have an option to test CSS for errors. Luckily
 
 ![W3C CSS](assets/images/W3CSS.png)
 
+## Manual Testing
+
+## Browsers
+![Manual Testing Browsers](/assets/images/Browser.png)
+
+## Responsiveness
+
+I also tested the site on different devices (small, medium, and large) and bootstrap media breakpoints using Chrome Developer tools. Below are my results:
+![Manual Testing Responsive](/assets/images/Responsiveness.png)
+
 ---
 
 ## **Finished site**
