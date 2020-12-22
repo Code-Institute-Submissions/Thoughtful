@@ -182,7 +182,13 @@ This was used to for errors in my HTML code. It returned the below errors and wa
 ![W3C HTML](assets/images/W3HTML.png)
 
 The error in line 46 was an easy fix as all I needed to do was add the space. In regards to the warnings for headings I decided to 
-ignore these as 
+ignore these as it was unnecessary for my site to have headings in these sections. 
+
+### [W3C CSS Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+
+Like W3C HTML validator they also have an option to test CSS for errors. Luckily mine returned no errors. 
+
+![W3C CSS](assets/images/W3CSS.png)
 
 ---
 
