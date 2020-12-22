@@ -172,7 +172,17 @@ Features on the site:
 
 ## **Testing**
 
+### [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+Google Chrome Tools was used during the building of the site to help find issues and bugs in the code. It is also useful 
+for helping with visulise placements of elements but altering positions, margins and paddings. 
 
+### [W3C HTML validator](https://validator.w3.org/) 
+This was used to for errors in my HTML code. It returned the below errors and warnings. 
+
+![W3C HTML](assets/images/W3HTML.png)
+
+The error in line 46 was an easy fix as all I needed to do was add the space. In regards to the warnings for headings I decided to 
+ignore these as 
 
 ---
 
