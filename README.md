@@ -202,6 +202,13 @@ I also tested the site on different devices (small, medium, and large) and boots
 
 ---
 
+## Speed
+
+To test the speed of the site I used a free website called [Pingdom](https://tools.pingdom.com/). I was pleased to see my site returned grade B and loads well under a second. 
+Below are my results:
+
+![Speed](/assets/images/speed.png)
+
 ## **Finished site**
 
 ### **Background colours changed to images**
