@@ -8,7 +8,7 @@ function addNewThought(event) {
     event.preventDefault();
    let inputText = document.getElementById("thought-input").value;
     if (inputText) {
-        let newTextField = "<li> <span>"+ inputText + "</span> <i onClick='deleteItem(" + thought.length  + ")' class='fas fa-trash-alt trash-btn'></i> </li>";
+        let newTextField = `<li> <span> ${inputText}</span> <i onClick='deleteItem(${thought.length})' class="fas fa-trash-alt trash-btn"></i> </li>`;
         thought.push(newTextField);
         document.getElementById("thought-input").value = "";
         displayThoughts();

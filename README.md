@@ -209,6 +209,20 @@ Below are my results:
 
 ![Speed](/assets/images/speed.png)
 
+## **Bugs**
+
+The two main bugs I encountered during the making of my site were:
+
+### **Background images**
+
+The site allows users to add as many thoughts as they wish and this caused a problem as the images did not continue as the thought built up causing a white background to appear. 
+I had to fix this with background-attachment: fixed.
+
+### **Footer**
+
+I also had a problem with the footer as the thoughts would overlap it and make the site look messy. I decided to remove the footer due to this and also design reasons. 
+
+
 ## **Finished site**
 
 ### **Background colours changed to images**
@@ -238,7 +252,7 @@ To deploy Thoughtful Men on GitHub Pages I had to make the follow the steps belo
 
 * Opened up GitHub in my browser
 * Signed in using my username and password
-* Selected my African Explorers repositories
+* Selected my Thoughtful repositories
 * Navigated to https://github.com/TobyGreet/Thoughtful
 * Click on setting in the top right of the navigation bar
 * Scrolled down to the GitHub Pages area
@@ -257,8 +271,6 @@ Cloning Thoughtful Men from GitHub:
 * Using your favourite IDE open up your preferred terminal
 * Navigate to your desired file location
 * Copy the following code and input it into your terminal to clone Thoughtful Men:
-
-
 
 ---
 
