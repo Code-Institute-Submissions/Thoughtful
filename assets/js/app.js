@@ -1,8 +1,16 @@
 let thought = [];
 
+/**
+ * Allows user to change background image. 
+ */
+
 function changeBackground(fileName) {
    document.getElementsByTagName("body")[0].style.backgroundImage = "url(assets/images/"+ fileName + ".jpg)";
 }
+
+/**
+ * Allows the user to enter a thought (text input) and gives a button to delete thought. If no text entered then (else) error message appears. 
+ */
 
 function addNewThought(event) {
     event.preventDefault();
@@ -17,13 +25,17 @@ function addNewThought(event) {
     }
 }
 
+/**
+ * Allows the user to delete thought (text)
+ */
+
 function deleteItem(index) {
     thought.splice(index, 1); 
     displayThoughts();
 }
 
 function displayThoughts() {
-    document.getElementById("thought").innerHTML  = ""; //clean before create all elements again in order to not get duplicate items
+    document.getElementById("thought").innerHTML  = ""; 
     thought.forEach(item => {
         document.getElementById("thought").innerHTML =  document.getElementById("thought").innerHTML + item
     });
