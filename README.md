@@ -24,7 +24,6 @@
     * [Responsiveness](#responsiveness)
     * [Speed](#speed)
 * [Bugs](#bugs)
-* [Finished site](#finished-site)
 * [Deployment](#deployment)
 * [Credit](#credits) 
 
@@ -136,6 +135,27 @@ I chose pages as it is free software with apple mac's and comes with a number of
 ![Wireframes](/wireframes/index.png)
 
 
+## **Changes to UX with finished site**
+
+Please see below changes to orginal UX designs and reasons why. 
+
+### **Background colours changed to images**
+
+During the making of the site I decided against using background colours and instead changed to background images. The reason for this 
+is because I feel the images give a better experience to the theme of the site. They are more suited and also frankley visually more appealing than a 
+plain background colour. I chose three images which I think suit the site nicley, as they thoughtful and even spiritual. 
+
+### **Removing of links to additional sites**
+
+I decided to remove any links to additional sites as I wanted to keep the site minimal, with the main focus being on the inputting of thoughts. I also thought
+it would of been a bit random to have these links in the site. 
+Removing these links also meant removing the footer. 
+
+### **Removing of email and social media links**
+
+As with the taking out of additional links I also decided to remove my links to email contact and linkedIn. Firstly I felt there was no real reason to have them
+but also they were adding clutter to the site and I preferred to keep it minimal.
+
 ---
 
 ## **Features**
@@ -225,23 +245,6 @@ I also had a problem with the footer as the thoughts would overlap it and make t
 
 ## **Finished site**
 
-### **Background colours changed to images**
-
-During the making of the site I decided against using background colours and instead changed to background images. The reason for this 
-is because I feel the images give a better experience to the theme of the site. They are more suited and also frankley visually more appealing than a 
-plain background colour. I chose three images which I think suit the site nicley, as they thoughtful and even spiritual. 
-
-### **Removing of links to additional sites**
-
-I decided to remove any links to additional sites as I wanted to keep the site minimal, with the main focus being on the inputting of thoughts. I also thought
-it would of been a bit random to have these links in the site. 
-Removing these links also meant removing the footer. 
-
-### **Removing of email and social media links**
-
-As with the taking out of additional links I also decided to remove my links to email contact and linkedIn. Firstly I felt there was no real reason to have them
-but also they were adding clutter to the site and I preferred to keep it minimal.
-
 ---
 
 ## **Deployment** 
@@ -279,8 +282,6 @@ Cloning Thoughtful Men from GitHub:
 * [Coolors.co](https://coolors.co/)
 
 * Images
-   
-    
     * Man in sunrise image provided by [Greg Rakozy at Unsplash](https://unsplash.com/@grakozy)
     * Tree in forest image provided by [Veeterzy at Unsplash](https://unsplash.com/@veeterzy)
     * City at night image provided by [Henning Witzel at Unsplash](https://unsplash.com/@henning)
